@@ -10,4 +10,4 @@ Entități:
 •	Stoc, produse
 •	Furnizori, date_furnizori
 
-![Diagrama DB](Diagrame.drawio.png)
+![Diagrama DB](Update Diagrame.drawio.png)
