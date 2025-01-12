@@ -9,3 +9,5 @@ Entități:
 •	Vânzări, clienți, date_client
 •	Stoc, produse
 •	Furnizori, date_furnizori
+
+![Diagrama DB](Diagrame.drawio.png)
